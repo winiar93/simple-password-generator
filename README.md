@@ -1,7 +1,7 @@
 # simple-password-generator
-C based simple password generator with user input
+C based simple password generator with user input.
 
-Conpiled for macos 12.3.1.
+Compiled for macos 12.3.1.
 
 
 On windows after instalation gcc, in terminal naviagte to file location and run command :
